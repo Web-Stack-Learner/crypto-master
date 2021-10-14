@@ -8,7 +8,7 @@ This App Developed With React, Redux Toolkit, Ant Desgin & RapidAPI
 
 ## API Provider
 
-![Rapid API](https://rapidapi.com/Coinranking/api/coinranking1/)
+### [Rapid API](https://rapidapi.com/Coinranking/api/coinranking1/)
 
 ### [Live Site](https://crypto-wsl.netlify.app/)
 
